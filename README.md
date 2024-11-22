@@ -2,7 +2,7 @@
 A To-Do List application is a useful project that helps users manage and organize their tasks efficiently. This project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists
 
 ## Features for the To-Do List Application
-#### *Create Tasks: Users can add new tasks to their to-do list.
+#### Create Tasks: Users can add new tasks to their to-do list.
 #### View Tasks: Users can see all tasks in the list.
 #### Update Tasks: Users can mark tasks as completed or update their descriptions.
 #### Delete Tasks: Users can remove tasks that are no longer needed.
