@@ -34,10 +34,10 @@ Create a loop to interact with the user and process their commands.
 If you'd like to turn this into a GUI-based application, you can use Tkinter, which is a built-in Python library for creating simple desktop applications.
 
 ### Features Implemented in the GUI:
-Task List: Displays tasks in a list box.
-Add Task: Allows users to enter a task and add it to the list.
-Delete Task: Allows users to delete a selected task.
-File I/O: Tasks are saved to and loaded from tasks.txt.
+#### Task List: Displays tasks in a list box.
+#### Add Task: Allows users to enter a task and add it to the list.
+#### Delete Task: Allows users to delete a selected task.
+#### File I/O: Tasks are saved to and loaded from tasks.txt.
 
 ### Summary
 CLI Version: Allows tasks to be created, updated, marked as completed, deleted, and saved to a file.
